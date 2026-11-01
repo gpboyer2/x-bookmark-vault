@@ -12,6 +12,8 @@ No Premium. No account. No server. One `.user.js` file.
 
 <img src="docs/screenshot-en.png" alt="X Bookmark Vault — a bookmark library panel running on top of x.com" width="100%">
 
+<sub>English UI mock-up. The shipped script currently speaks Chinese only — <a href="docs/screenshot-zh.png">here is what it really looks like</a>. An English UI is on the roadmap.</sub>
+
 ---
 
 ## Why this exists
